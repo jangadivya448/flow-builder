@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bitespeed-task/static/css/main.0e962f32.css",
-    "main.js": "/bitespeed-task/static/js/main.79b4e017.js",
-    "index.html": "/bitespeed-task/index.html",
-    "main.0e962f32.css.map": "/bitespeed-task/static/css/main.0e962f32.css.map",
-    "main.79b4e017.js.map": "/bitespeed-task/static/js/main.79b4e017.js.map"
+    "main.css": "/flow-builder/static/css/main.0e962f32.css",
+    "main.js": "/flow-builder/static/js/main.24e87cbe.js",
+    "index.html": "/flow-builder/index.html",
+    "main.0e962f32.css.map": "/flow-builder/static/css/main.0e962f32.css.map",
+    "main.24e87cbe.js.map": "/flow-builder/static/js/main.24e87cbe.js.map"
   },
   "entrypoints": [
     "static/css/main.0e962f32.css",
-    "static/js/main.79b4e017.js"
+    "static/js/main.24e87cbe.js"
   ]
 }
